@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Github Repo]()
+- Github URL: [Github Repo](https://github.com/Nitesh-bit/classy-weather)
 - Live Site URL: [Project Link](https://classy-weather-12.netlify.app/)
 
 ## My process
